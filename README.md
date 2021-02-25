@@ -2,11 +2,11 @@
 
 ### Date created
 
-24th February, 2021
+24th February, 2021.
 
 ### Project Title
 
-Udacity Bikeshare project
+Udacity Bikeshare Project
 
 ### Description
 
